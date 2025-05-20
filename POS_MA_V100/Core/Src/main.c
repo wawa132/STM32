@@ -208,6 +208,8 @@ int main(void)
 
         /* USER CODE BEGIN 3 */
 
+    	// Check Git-Hub step 1
+
         // ADC Process
         ADC_Process();
 
